@@ -1,0 +1,16 @@
+{
+   "appDesc": {
+      "description": "Emerald Chat Plus",
+      "message": "Emerald Chat Plus"
+   },
+   "appDisabled": {
+      "message": "Emerald Mod Disabled"
+   },
+   "appEnabled": {
+      "message": "Emerald Mod Enabled"
+   },
+   "appName": {
+      "description": "Emerald Chat Plus",
+      "message": "Emerald Chat Plus"
+   }
+}
